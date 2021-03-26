@@ -11,5 +11,6 @@ typedef struct ListNode {
 int main(void) {
 	ListNode* ph; // 포인터 생성
 	ph = (ListNode*)malloc(sizeof(ListNode)); // 노드 크기만큼 동적 메모리 할당
+
 	
 }
